@@ -7,7 +7,7 @@ h1 {
 }
 
 h2 {
-    color:
+    color:black
 }
 
 /* Lists ---------------------------------------*/
@@ -27,6 +27,13 @@ li{
 }
 .divMainResume {
     background-color: lightgray;
+}
+
+.divFooter {
+    background-color:black;
+    color: aliceblue;
+    font-size:12px;
+    text-align: center;
 }
 
 
